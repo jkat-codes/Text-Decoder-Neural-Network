@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="">
     <img src="https://www.washingtonpost.com/resizer/2sIm8CkBmFnHUp_7nKgB1jsw-cM=/arc-anglerfish-washpost-prod-washpost/public/6Y2CV66OA5AU5KB3IGANEXDXGM.jpg" alt="Logo" width="80" height="80">
   </a>
 
